@@ -1,0 +1,9 @@
+{
+  "data": {
+    "type": "users",
+    "id": "1",
+    "attributes": {
+      "name": "ashim"
+    }
+  }
+}

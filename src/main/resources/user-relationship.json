@@ -1,0 +1,23 @@
+{
+  "data": {
+    "type": "users",
+    "id": "1",
+    "attributes": {
+      "name": "ashim"
+    },
+    "relationships": {
+      "roles": {
+        "data": [
+          {
+            "type": "roles",
+            "id": "1"
+          },
+          {
+            "type": "roles",
+            "id": "2"
+          }
+        ]
+      }
+    }
+  }
+}
